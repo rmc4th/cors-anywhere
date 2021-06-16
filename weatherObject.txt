@@ -1,0 +1,124 @@
+{"Headline":
+	{"EffectiveDate":"2021-06-13T08:00:00-04:00",
+	 "EffectiveEpochDate":1623585600,
+	 "Severity":4,"Text":"Pleasant tomorrow",
+	 "Category":"mild",
+	 "EndDate":null,
+	 "EndEpochDate":null,
+	 "MobileLink":"http://m.accuweather.com/en/us/waterford-ct/06385/extended-weather-forecast/2208412?lang=en-us",
+	 "Link":"http://www.accuweather.com/en/us/waterford-ct/06385/daily-weather-forecast/2208412?lang=en-us"
+	 },
+ "DailyForecasts":
+	 [
+	 	{"Date":"2021-06-12T07:00:00-04:00",
+	 	 "EpochDate":1623495600,
+	 	 "Temperature":
+	 		{"Minimum":{"Value":56.0,"Unit":"F","UnitType":18},
+	 		 "Maximum":{"Value":68.0,"Unit":"F","UnitType":18}
+	 		 },
+	 	 "Day":
+	 		{"Icon":13,
+	 		 "IconPhrase":"Mostly cloudy w/ showers",
+	 		 "HasPrecipitation":true,
+	 		 "PrecipitationType":"Rain",
+	 		 "PrecipitationIntensity":"Moderate"
+	 		 },
+	 	 "Night":
+	 		{"Icon":36,
+	 		 "IconPhrase":"Intermittent clouds",
+	 		 "HasPrecipitation":false
+	 		 },
+	 	 "Sources":["AccuWeather"],
+	 	 "MobileLink":"http://m.accuweather.com/en/us/waterford-ct/06385/daily-weather-forecast/2208412?day=1&lang=en-us",
+	 	 "Link":"http://www.accuweather.com/en/us/waterford-ct/06385/daily-weather-forecast/2208412?day=1&lang=en-us"
+	 	},
+	 	
+	 	{"Date":"2021-06-13T07:00:00-04:00",
+	 	 "EpochDate":1623582000,
+	 	 "Temperature":
+	 	 	{"Minimum":{"Value":59.0,"Unit":"F","UnitType":18},
+	 	 	 "Maximum":{"Value":73.0,"Unit":"F","UnitType":18}
+	 	 	 },
+	 	 "Day":
+	 	 	{"Icon":3,
+	 	 	 "IconPhrase":"Partly sunny",
+	 	 	 "HasPrecipitation":false
+	 	 	 },
+	 	 "Night":
+	 	 	{"Icon":15,
+	 	 	 "IconPhrase":"Thunderstorms",
+	 	 	 "HasPrecipitation":true,
+	 	 	 "PrecipitationType":"Rain",
+	 	 	 "PrecipitationIntensity":"Moderate"
+	 	 	 },
+	 	 "Sources":["AccuWeather"],
+	 	 "MobileLink":"http://m.accuweather.com/en/us/waterford-ct/06385/daily-weather-forecast/2208412?day=2&lang=en-us",
+	 	 "Link":"http://www.accuweather.com/en/us/waterford-ct/06385/daily-weather-forecast/2208412?day=2&lang=en-us"
+	 	 },
+	 	 
+	 	 {"Date":"2021-06-14T07:00:00-04:00",
+	 	  "EpochDate":1623668400,
+	 	  "Temperature":
+	 	  	{"Minimum":{"Value":60.0,"Unit":"F","UnitType":18},
+	 	  	 "Maximum":{"Value":68.0,"Unit":"F","UnitType":18}
+	 	  	 },
+	 	  "Day":
+	 	  	{"Icon":13,
+	 	  	 "IconPhrase":"Mostly cloudy w/ showers",
+	 	  	 "HasPrecipitation":true,
+	 	  	 "PrecipitationType":"Rain",
+	 	  	 "PrecipitationIntensity":"Light"},
+	 	  "Night":
+	 	  	{"Icon":12,
+	 	  	 "IconPhrase":"Showers",
+	 	  	 "HasPrecipitation":true,
+	 	  	 "PrecipitationType":"Rain",
+	 	  	 "PrecipitationIntensity":"Light"
+	 	  	 },
+	 	  "Sources":["AccuWeather"],
+	 	  "MobileLink":"http://m.accuweather.com/en/us/waterford-ct/06385/daily-weather-forecast/2208412?day=3&lang=en-us",
+	 	  "Link":"http://www.accuweather.com/en/us/waterford-ct/06385/daily-weather-forecast/2208412?day=3&lang=en-us"
+	 	  },
+	 	  
+	 	  {"Date":"2021-06-15T07:00:00-04:00",
+	 	   "EpochDate":1623754800,
+	 	   "Temperature":
+	 	   	{"Minimum":{"Value":58.0,"Unit":"F","UnitType":18},
+	 	   	 "Maximum":{"Value":73.0,"Unit":"F","UnitType":18}},
+	 	   "Day":
+	 	   	{"Icon":17,
+	 	   	 "IconPhrase":"Partly sunny w/ t-storms",
+	 	   	 "HasPrecipitation":true,
+	 	   	 "PrecipitationType":"Rain",
+	 	   	 "PrecipitationIntensity":"Moderate"
+	 	   	 },
+	 	   "Night":
+	 	   	{"Icon":36,
+	 	   	 "IconPhrase":"Intermittent clouds",
+	 	   	 "HasPrecipitation":false
+	 	   	 },
+	 	   "Sources":["AccuWeather"],
+	 	   "MobileLink":"http://m.accuweather.com/en/us/waterford-ct/06385/daily-weather-forecast/2208412?day=4&lang=en-us",
+	 	   "Link":"http://www.accuweather.com/en/us/waterford-ct/06385/daily-weather-forecast/2208412?day=4&lang=en-us"
+	 	   },
+	 	   
+	 	  {"Date":"2021-06-16T07:00:00-04:00",
+	 	   "EpochDate":1623841200,
+	 	   "Temperature":
+	 	   	{"Minimum":{"Value":56.0,"Unit":"F","UnitType":18},
+	 	   	 "Maximum":{"Value":73.0,"Unit":"F","UnitType":18}},
+	 	   	 "Day":
+	 	   	 	{"Icon":2,
+	 	   	 	 "IconPhrase":"Mostly sunny",
+	 	   	 	 "HasPrecipitation":false
+	 	   	 	 },
+	 	   	 "Night":
+	 	   	 	{"Icon":33,
+	 	   	 	 "IconPhrase":"Clear",
+	 	   	 	 "HasPrecipitation":false},
+	 	   	 "Sources":["AccuWeather"],
+	 	   	 "MobileLink":"http://m.accuweather.com/en/us/waterford-ct/06385/daily-weather-forecast/2208412?day=5&lang=en-us",
+	 	   	 "Link":"http://www.accuweather.com/en/us/waterford-ct/06385/daily-weather-forecast/2208412?day=5&lang=en-us"
+	 	   }
+	]
+}
